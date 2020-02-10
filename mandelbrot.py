@@ -1,4 +1,5 @@
-#renderes different zoom points of a mandelbrot set, saved figures to make a gif
+#renders different zoom points of a mandelbrot set, saved figures to make a gif
+#loop of 12 for 12 images in the (python gif maker didn't work well so used ezgif.com)
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.pyplot import figure
