@@ -1,3 +1,4 @@
+#renderes different zoom points of a mandelbrot set, saved figures to make a gif
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.pyplot import figure
