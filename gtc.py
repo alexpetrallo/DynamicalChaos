@@ -1,4 +1,4 @@
-
+#Taylor-Greene-Chirikov map plot phase diagram for different values of K
 import numpy as np
 from scipy import *
 import matplotlib.pyplot as plt
